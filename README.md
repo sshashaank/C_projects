@@ -1,2 +1,1 @@
-# C_projects
-My projects
+Interesting and User Interactive C projects.
